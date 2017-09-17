@@ -1,3 +1,3 @@
 # README.md
 
-[github](admin@github.com)
+* [github](admin@github.com)
